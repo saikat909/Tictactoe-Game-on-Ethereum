@@ -6,7 +6,7 @@ To run this game you and your opponent need access to the same blockchain. Eithe
 
 1. Install [Git](https://git-scm.com/downloads)
 2. and [NodeJS](https://nodejs.org/en/download/) (including NPM) on Your Computer
-3. Open a Terminal/Command Line and then `git clone https://github.com/saikat909 Tictactoe-Game-on-Ethereum"
+3. Open a Terminal/Command Line and then `git clone https://github.com/saikat909/Tictactoe-Game-on-Ethereum"
 4. `npm install`
 5. `npm install -g truffle`
 6. `npm install -g ganache-cli`
